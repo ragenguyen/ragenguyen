@@ -47,7 +47,6 @@
 ```typescript
 const RageNguyen = {
 
-  // ── identity ──────────────────────────
   name:     "Rage Nguyen",
   handle:   "RageNguyen",
   location: "Tokyo, Chiba — Japan 🇯🇵",
@@ -60,7 +59,6 @@ const RageNguyen = {
     "Japanese (studying → N2)",
   ],
 
-  // ── currently building ────────────────
   currentlyBuilding: [
     "QuantumKit  — network intelligence",
     "Learnly     — 150+ models, one UX",
@@ -79,7 +77,6 @@ const RageNguyen = {
   <td valign="top" width="50%">
 
 ```typescript
-  // ── background ────────────────────────
   background: `
     Started writing code to fix things
     that annoyed me. Ended up building
@@ -96,7 +93,6 @@ const RageNguyen = {
     not a destination.
   `,
 
-  // ── interests ─────────────────────────
   deeplyInterestedIn: [
     "LLM inference & optimization",
     "adversarial robustness",
