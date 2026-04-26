@@ -1,11 +1,5 @@
 <div align="center">
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         BADGES ROW                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://komarev.com/ghpvc/?username=yinlewoaisuru&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS&labelColor=09090f" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/yinlewoaisuru?style=for-the-badge&color=7c3aed&label=FOLLOWERS&labelColor=09090f&logo=github&logoColor=a78bfa" />
@@ -16,17 +10,9 @@
 
 <br><br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TYPING TAGLINES                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=2600&pause=1200&color=a78bfa&center=true&vCenter=true&multiline=false&width=720&lines=%E2%9D%AF+building+systems+that+probably+shouldn%27t+exist+yet;%E2%9D%AF+3am+JST+commits+are+a+lifestyle%2C+not+a+problem;%E2%9D%AF+AI+%C2%B7+networks+%C2%B7+distributed+systems+%C2%B7+tools+that+matter;%E2%9D%AF+Tokyo%2C+Chiba+%F0%9F%87%AF%F0%9F%87%B5+%E2%80%94+somewhere+electric%2C+thinking+fast;%E2%9D%AF+Vietnam+%E2%86%92+Tallinn+%E2%86%92+Tokyo+%E2%80%94+chasing+harder+problems;%E2%9D%AF+open+to+collabs+if+the+idea+is+weird+enough;%E2%9D%AF+the+best+code+is+code+you+never+have+to+write+twice)](https://git.io/typing-svg)
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       SOCIAL LINKS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://yinlewoaisuru.xyz"><img src="https://img.shields.io/badge/🌐_Portfolio-yinlewoaisuru.xyz-a78bfa?style=flat-square&labelColor=09090f&color=1e0a3c" /></a>
 &ensp;
@@ -46,134 +32,18 @@
 
 ## `> whoami`
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               DISCORD PRESENCE — powered by Lanyard            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- Replace YOUR_DISCORD_ID with your actual Discord user ID -->
-<!-- Step 1: Join https://discord.gg/lanyard  -->
-<!-- Step 2: Use your numeric Discord ID (e.g. 123456789012345678) -->
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1469216989158309928?theme=dark&bg=09090f&borderRadius=12px&animated=true&showDisplayName=true&hideDiscrim=false&hideStatus=false&hideTimestamp=false&idleMessage=somewhere%20in%20Tokyo%2C%20thinking%20fast...)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1469216989158309928?theme=light&bg=ffffff&borderRadius=12px&animated=true&showDisplayName=true&hideDiscrim=false&hideStatus=false&hideTimestamp=false&idleMessage=somewhere%20in%20Tokyo%2C%20thinking%20fast...)](https://discord.com/users/1469216989158309928)
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    3-COLUMN WHOAMI TABLE                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <table>
-  <tr>
-    <td valign="top" width="34%">
-
-**`// identity.ts`**
-
-```typescript
-const yinlewoaisuru = {
-
-  handle:   "yinlewoaisuru",
-  location: "Tokyo, Chiba 🇯🇵",
-  timezone: "JST (UTC+9)",
-  journey: [
-    "Vietnam 🇻🇳",
-    "→ Tallinn 🇪🇪",
-    "→ Tokyo 🇯🇵",
-  ],
-  languages: [
-    "Vietnamese (native)",
-    "English    (fluent)",
-    "Japanese   (→ N2)",
-  ],
-  openTo: [
-    "weird collab ideas",
-    "paper discussions",
-    "impossible projects",
-    "tokyo meetups",
-  ],
-
-};
-```
-
-  </td>
-  <td valign="top" width="33%">
-
-**`// currently.ts`**
-
-```typescript
-  building: [
-    "QuantumKit",
-    "  ↳ network intelligence",
-    "Learnly",
-    "  ↳ 150+ models, one UX",
-    "Auryx-Agent",
-    "  ↳ autonomous CLI agent",
-    "[REDACTED]",
-    "  ↳ LLMs misbehaving",
-  ],
-
-  obsessedWith:
-    "making AI feel less" +
-    " like software and" +
-    " more like a" +
-    " collaborator",
-
-  status: "🟢 online · building",
-  mood:   "focused · caffeinated",
-  music:  "lofi · city pop · OST",
-
-```
-
-  </td>
-  <td valign="top" width="33%">
-
-**`// interests.ts`**
-
-```typescript
-  research: [
-    "LLM inference & optim",
-    "adversarial robustness",
-    "anomaly detection",
-    "distributed systems",
-    "developer tooling",
-    "edge-native AI",
-  ],
-
-  offScreen: [
-    "ML papers @ 2am JST",
-    "Chiba coast at night",
-    "East Tokyo ramen runs",
-    "Chuo Line audiobooks",
-    "Akihabara deep dives",
-  ],
-
-  background: `
-    Started fixing things
-    that annoyed me. Ended
-    up building things that
-    didn't exist yet.
-  `,
-```
-
   </td>
   </tr>
 </table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     STATUS DASHBOARD                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-</div>
-
-<br>
-<br>
 
 <br>
 
@@ -280,40 +150,6 @@ reading_now:
 </div>
 
 <br>
-
-<div align="center">
-
-**`// Full Stack — Organized by Domain`**
-
-| Domain | Technologies |
-|:-------|:------------|
-| **Languages** | Python · TypeScript · Java · C++ · Rust · Bash · SQL |
-| **AI / ML** | PyTorch · TF · Transformers · LangChain · LlamaIndex · llama.cpp · LoRA · DPO · RLHF · RAG · GPTQ |
-| **Frontend** | React · Next.js · Tailwind CSS · Vite · HTML5 · CSS3 · Figma |
-| **Backend** | FastAPI · Node.js · Express · WebSockets · REST · GraphQL · gRPC |
-| **Databases** | PostgreSQL · Redis · SQLite · MySQL · Qdrant · ChromaDB · Supabase |
-| **Infra** | Docker · Linux · Nginx · Cloudflare · Vercel · Firebase · GitHub Actions · Terraform |
-| **Networking** | eBPF · Wireshark · Scapy · Packet Analysis · Reverse Proxies · DNS · TLS |
-| **Security** | Red-teaming · Adversarial ML · Traffic Fingerprinting · Anomaly Detection |
-
-<br>
-
-**`// Tools I Use Daily`**
-
-| Tool | For What | Honest Take |
-|:-----|:---------|:------------|
-| **Neovim** | Everything, literally | can't go back to anything else |
-| **tmux** | Terminal multiplexing | non-negotiable |
-| **Zsh + custom dotfiles** | Shell environment | spent too long on this config |
-| **Obsidian** | Notes + research | 400+ notes deep and counting |
-| **Cloudflare** | DNS, proxy, workers | free tier does too much, I love it |
-| **WakaTime** | Time tracking | numbers that shame me into working |
-| **Postman** | API testing | still better than all the alternatives |
-| **Wireshark** | Packet analysis | makes networks feel transparent |
-| **Anki** | Japanese SRS | 200+ cards/day, no excuses |
-
-</div>
-
 <br>
 
 ---
@@ -370,24 +206,14 @@ reading_now:
 
 </div>
 
-
 <br>
 
-</div>
-
-<br>
-
-
-<br>
-
-<br>
-
-<br>
+---
 
 <br>
 
 > *"best reached via Discord — I'm there more than I probably should be"*
-> 
+>
 > *"if your idea is weird enough, I'm already interested"*
 
 <br>
