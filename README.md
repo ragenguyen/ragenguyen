@@ -13,6 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=2600&pause=1200&color=a78bfa&center=true&vCenter=true&multiline=false&width=720&lines=%E2%9D%AF+building+systems+that+probably+shouldn%27t+exist+yet;%E2%9D%AF+3am+JST+commits+are+a+lifestyle%2C+not+a+problem;%E2%9D%AF+AI+%C2%B7+networks+%C2%B7+distributed+systems+%C2%B7+tools+that+matter;%E2%9D%AF+Tokyo%2C+Chiba+%F0%9F%87%AF%F0%9F%87%B5+%E2%80%94+somewhere+electric%2C+thinking+fast;%E2%9D%AF+Vietnam+%E2%86%92+Tallinn+%E2%86%92+Tokyo+%E2%80%94+chasing+harder+problems;%E2%9D%AF+open+to+collabs+if+the+idea+is+weird+enough;%E2%9D%AF+the+best+code+is+code+you+never+have+to+write+twice)](https://git.io/typing-svg)
 
 <br>
+</div>
 
 ---
 
