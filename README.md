@@ -6,7 +6,9 @@
 &nbsp;
 <img src="https://img.shields.io/github/stars/yinlewoaisuru?style=for-the-badge&color=7c3aed&label=STARS&labelColor=09090f&logo=github&logoColor=a78bfa" />
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-Learn-a78bfa?style=for-the-badge&labelColor=09090f" />
+<img src="https://img.shields.io/badge/STATUS-Building-a78bfa?style=for-the-badge&labelColor=09090f&logo=statuspage&logoColor=a78bfa" />
+&nbsp;
+<img src="https://img.shields.io/badge/TIMEZONE-JST_UTC%2B9-7c3aed?style=for-the-badge&labelColor=09090f&logo=clockify&logoColor=a78bfa" />
 
 <br><br>
 
